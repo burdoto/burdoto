@@ -24,7 +24,7 @@ A chatbot can do whatever you can imagine, in the boundaries of the platform.
 - RegEx knowledge
 
 ##### Example:
-[CandyBot](https://github.com/comroid-git/CandyBot) - A levelling bot written on the Javacord discord wrapper
+[CandyBot](https://github.com/comroid-git/CandyBot) - A Discord bot for levelling
 
 CandyBot counts all messages in a Discord guild. Once the counter reaches 100, the author of that 100th message receives one "level".
 
