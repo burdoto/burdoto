@@ -55,4 +55,5 @@ discordemoji.com is a shared library for Emojis that server administration can a
 This implementation allows bots, that are written in Java, to communicate with its API to gather emojis.
 
 # Pretty Graphs & Charts
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burdoto)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burdoto&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burdoto)](https://github.com/anuraghazra/github-readme-stats)
