@@ -53,3 +53,6 @@ Usually, the end user will depend on their implementation artifact based on whic
 
 discordemoji.com is a shared library for Emojis that server administration can add to their servers.
 This implementation allows bots, that are written in Java, to communicate with its API to gather emojis.
+
+# Pretty Graphs & Charts
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burdoto)](https://github.com/anuraghazra/github-readme-stats)
