@@ -59,4 +59,6 @@ This implementation allows bots, that are written in Java, to communicate with i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burdoto)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Language Ranking](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME)](https://profile.codersrank.io/user/burdoto)
+
 [![Language Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burdoto)](https://profile.codersrank.io/user/burdoto)
