@@ -7,7 +7,7 @@
 #### The guardian Framework aims at enabling a developer to easily create REST-Based APIs, Wrappers for those APIs and even contains a simple module to integrate a Web UI with said API.
 
 ## [KScr](https://github.com/comroid-git/KScr)
-#### A simple interpreted language, attempting to grow into a fully-fledged compiled OOP language some day.
+#### A simple compiled language, attempting to grow into a fully-fledged compiled OOP language some day.
 
 ## [CrystalShard](https://github.com/comroid-git/CrystalShard)
 #### CrystalShard is a Java-Wrapper for the Discord Bot API
