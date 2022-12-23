@@ -21,6 +21,7 @@ A chatbot can do whatever you can imagine, in the boundaries of the platform.
 
 
 ## [VBAN-API](https://github.com/comroid-git/VBAN-API)
+## [C# VBAN-API](https://github.com/comroid-git/VBAN-API-CS)
 #### Java wrapper for the VB-Audio VBAN protocol
 
 Used by the virtual audio mixing console [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/banana.htm).
@@ -28,7 +29,7 @@ The VBAN Protocol is used to send audiostreams over network from one VoiceMeeter
 In [VoiceMeeter 3 - Potato](https://www.vb-audio.com/Voicemeeter/potato.htm), it can also be used to cue MIDI actions.
 
 
-## [VBANDeck](https://github.com/burdoto/VBANDeck) (archived)
+## [VBANDeck](https://github.com/burdoto/VBANDeck)
 #### VBAN-Plugin for the Elgato StreamDeck
 
 VBANDeck was requested and supported by Vincent Burel, the publisher of VoiceMeeter and the VBAN protocol.
