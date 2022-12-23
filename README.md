@@ -22,7 +22,7 @@ A chatbot can do whatever you can imagine, in the boundaries of the platform.
 
 ## [VBAN-API](https://github.com/comroid-git/VBAN-API)
 ## [C# VBAN-API](https://github.com/comroid-git/VBAN-API-CS)
-#### Java wrapper for the VB-Audio VBAN protocol
+#### Wrapper for the VB-Audio VBAN protocol
 
 Used by the virtual audio mixing console [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/banana.htm).
 The VBAN Protocol is used to send audiostreams over network from one VoiceMeeter instance to another, and to be able to remotecontrol VoiceMeeter instances.
