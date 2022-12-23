@@ -20,7 +20,7 @@ A chatbot can do whatever you can imagine, in the boundaries of the platform.
 ###### CandyBot counts all messages in a Discord guild. Once the counter reaches 100, the author of that 100th message receives one "level".
 
 
-## [VBAN-API](https://github.com/comroid-git/VBAN-API)
+## [Java VBAN-API](https://github.com/comroid-git/VBAN-API)
 ## [C# VBAN-API](https://github.com/comroid-git/VBAN-API-CS)
 #### Wrapper for the VB-Audio VBAN protocol
 
